@@ -1,5 +1,5 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "repos": "https://github.com/jlongster/redux-simple-router.git",
     "tag": "master",
     "name": "redux-simple-router",
