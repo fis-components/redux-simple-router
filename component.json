@@ -1,0 +1,7 @@
+{
+    "version": "0.0.10",
+    "repos": "https://github.com/jlongster/redux-simple-router.git",
+    "tag": "master",
+    "name": "redux-simple-router",
+    "main": "lib/index.js"
+}
